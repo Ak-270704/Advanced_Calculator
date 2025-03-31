@@ -1,11 +1,11 @@
 # Advanced_Calculator
 Advanced Calculator using Tkinter (Python)
 
-Overview
+---------------------------------------------------------------------------------------------------Overview-----------------------------------------------------------------------------------------------------------------------------------
 
 This project is an Advanced Calculator built using Python and Tkinter for the GUI. It supports a wide range of mathematical operations, including basic arithmetic, trigonometry, logarithms, matrix operations, complex numbers, calculus (integration & differentiation), statistics, and base conversions.
 
-Features
+---------------------------------------------------------------------------------------------------Features-----------------------------------------------------------------------------------------------------------------------------------
 
 1 Basic Arithmetic & Power Operations: Addition, Subtraction, Multiplication, Division, Modulus, Square root, Cube root, Exponentiation
 
@@ -31,7 +31,7 @@ Features
 
 12 Base Conversions: Decimal to Binary, Octal, Hexadecimal and vice versa
 
-Installation & Setup
+---------------------------------------------------------------------------------------------------Installation & Setup----------------------------------------------------------------------------------------------------------------------
 
 Prerequisites
 
@@ -39,17 +39,17 @@ Make sure you have Python 3.6+ installed on your system.
 
 Install Required Libraries: numpy, sympy, scipy, matplotlib
 
-How It Works
+----------------------------------------------------------------------------------------------------How It Works------------------------------------------------------------------------------------------------------------------------------
 
-Select a Category: Choose a mathematical operation category from the dropdown menu.
+1. Select a Category: Choose a mathematical operation category from the dropdown menu.
 
-Select an Operation: Depending on the category, the relevant operations will appear in the second dropdown.
+2. Select an Operation: Depending on the category, the relevant operations will appear in the second dropdown.
 
-Enter Inputs: Input the required values in the text fields.
+3. Enter Inputs: Input the required values in the text fields.
 
-Click "Calculate": The result will be displayed in a message box.
+4. Click "Calculate": The result will be displayed in a message box.
 
-Future Enhancements:
+---------------------------------------------------------------------------------------------------Future Enhancements------------------------------------------------------------------------------------------------------------------------
 
 ✅ UI improvements with better styling
 
@@ -57,7 +57,7 @@ Future Enhancements:
 
 ✅ More interactive graph plotting features
 
-Author
+---------------------------------------------------------------------------------------------------Author-------------------------------------------------------------------------------------------------------------------------------------
 
 👤 Akshat Kaushik
 
