@@ -1,32 +1,65 @@
 # Advanced_Calculator
 Advanced Calculator using Tkinter (Python)
 
-📌 Overview
+Overview
 
 This project is an Advanced Calculator built using Python and Tkinter for the GUI. It supports a wide range of mathematical operations, including basic arithmetic, trigonometry, logarithms, matrix operations, complex numbers, calculus (integration & differentiation), statistics, and base conversions.
 
-🖥️ Features
+Features
 
-✅ Basic Arithmetic & Power Operations: Addition, Subtraction, Multiplication, Division, Modulus, Square root, Cube root, Exponentiation
+1 Basic Arithmetic & Power Operations: Addition, Subtraction, Multiplication, Division, Modulus, Square root, Cube root, Exponentiation
 
-✅ Trigonometric & Inverse Trigonometric Functions: sin, cos, tan, sec, cosec, cot, and their inverses
+2 Trigonometric & Inverse Trigonometric Functions: sin, cos, tan, sec, cosec, cot, and their inverses
 
-✅ Logarithmic Functions: log (base 10), ln (natural log), log with a custom base
+3 Logarithmic Functions: log (base 10), ln (natural log), log with a custom base
 
-✅ Floor, Ceil, Absolute, and Sign Functions
+4 Floor, Ceil, Absolute, and Sign Functions
 
-✅ Prime Number Functions: Prime check, GCD (Greatest Common Divisor), LCM (Least Common Multiple)
+5 Prime Number Functions: Prime check, GCD (Greatest Common Divisor), LCM (Least Common Multiple)
 
-✅ Statistics: Mean, Median, Mode, Variance, Standard Deviation
+6 Statistics: Mean, Median, Mode, Variance, Standard Deviation
 
-✅ Matrix Operations: Addition, Multiplication, Determinant, Inverse
+7 Matrix Operations: Addition, Multiplication, Determinant, Inverse
 
-✅ Complex Number Calculations: Addition, Multiplication, Conjugate, Modulus
+8 Complex Number Calculations: Addition, Multiplication, Conjugate, Modulus
 
-✅ Calculus (Definite Integrals & Derivatives)
+9 Calculus (Definite Integrals & Derivatives)
 
-✅ Polynomial Operations: Finding roots, Evaluation
+10 Polynomial Operations: Finding roots, Evaluation
 
-✅ Graph Plotting: Function visualization using Matplotlib
+11 Graph Plotting: Function visualization using Matplotlib
 
-✅ Base Conversions: Decimal to Binary, Octal, Hexadecimal and vice versa
+12 Base Conversions: Decimal to Binary, Octal, Hexadecimal and vice versa
+
+Installation & Setup
+
+Prerequisites
+
+Make sure you have Python 3.6+ installed on your system.
+
+Install Required Libraries: numpy, sympy, scipy, matplotlib
+
+How It Works
+
+Select a Category: Choose a mathematical operation category from the dropdown menu.
+
+Select an Operation: Depending on the category, the relevant operations will appear in the second dropdown.
+
+Enter Inputs: Input the required values in the text fields.
+
+Click "Calculate": The result will be displayed in a message box.
+
+Future Enhancements:
+
+✅ UI improvements with better styling
+
+✅ Support for additional mathematical functions
+
+✅ More interactive graph plotting features
+
+Author
+
+👤 Akshat Kaushik
+
+📧 official.akshat.kaushik@gmail.com
+
